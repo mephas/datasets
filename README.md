@@ -1,2 +1,4 @@
 # example_data
-new folder to store example data for mephas
+This folder includes the example data for MEPHAS
+
+
