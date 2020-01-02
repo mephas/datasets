@@ -1,0 +1,145 @@
+event,Diam,N,ER,Grade,Age
+0,<=2cm,03-Jan,Positive,Intermediate,50
+1,<=2cm,03-Jan,Positive,Well diff,42
+0,>2cm,03-Jan,Positive,Well diff,50
+0,<=2cm,03-Jan,Positive,Intermediate,43
+0,<=2cm,03-Jan,Negative,Poorly diff,47
+0,<=2cm,03-Jan,Positive,Intermediate,47
+1,<=2cm,03-Jan,Positive,Poorly diff,38
+0,<=2cm,03-Jan,Negative,Poorly diff,45
+1,>2cm,03-Jan,Negative,Poorly diff,31
+0,<=2cm,03-Jan,Positive,Well diff,41
+0,<=2cm,03-Jan,Positive,Intermediate,48
+1,>2cm,>=4,Positive,Poorly diff,47
+1,<=2cm,03-Jan,Negative,Intermediate,38
+0,>2cm,03-Jan,Negative,Intermediate,44
+1,<=2cm,>=4,Positive,Intermediate,36
+1,>2cm,>=4,Positive,Poorly diff,42
+0,>2cm,>=4,Positive,Poorly diff,42
+0,>2cm,03-Jan,Positive,Well diff,45
+1,>2cm,03-Jan,Negative,Poorly diff,49
+1,<=2cm,03-Jan,Positive,Intermediate,44
+0,>2cm,>=4,Positive,Well diff,32
+1,>2cm,>=4,Positive,Well diff,46
+0,>2cm,03-Jan,Positive,Poorly diff,50
+0,<=2cm,>=4,Positive,Poorly diff,38
+1,>2cm,03-Jan,Positive,Poorly diff,43
+0,>2cm,03-Jan,Positive,Intermediate,40
+0,>2cm,03-Jan,Positive,Well diff,42
+1,>2cm,03-Jan,Positive,Poorly diff,46
+0,<=2cm,03-Jan,Positive,Poorly diff,41
+0,>2cm,03-Jan,Positive,Intermediate,46
+1,>2cm,03-Jan,Negative,Poorly diff,48
+0,>2cm,03-Jan,Positive,Intermediate,48
+1,>2cm,>=4,Positive,Poorly diff,36
+0,<=2cm,03-Jan,Positive,Well diff,43
+1,>2cm,03-Jan,Negative,Poorly diff,44
+1,>2cm,03-Jan,Negative,Intermediate,47
+0,<=2cm,03-Jan,Positive,Intermediate,40
+0,<=2cm,03-Jan,Positive,Well diff,41
+0,<=2cm,03-Jan,Positive,Well diff,48
+1,<=2cm,03-Jan,Positive,Intermediate,41
+1,<=2cm,03-Jan,Positive,Intermediate,45
+0,<=2cm,03-Jan,Negative,Intermediate,45
+0,>2cm,03-Jan,Positive,Well diff,47
+0,<=2cm,03-Jan,Negative,Well diff,37
+0,<=2cm,03-Jan,Positive,Intermediate,43
+0,<=2cm,03-Jan,Positive,Intermediate,43
+0,>2cm,03-Jan,Positive,Poorly diff,49
+0,>2cm,03-Jan,Positive,Poorly diff,45
+1,>2cm,>=4,Positive,Well diff,41
+0,>2cm,03-Jan,Positive,Well diff,50
+1,<=2cm,03-Jan,Positive,Poorly diff,49
+1,>2cm,>=4,Negative,Poorly diff,43
+1,>2cm,03-Jan,Positive,Poorly diff,38
+0,<=2cm,03-Jan,Positive,Well diff,42
+0,<=2cm,03-Jan,Negative,Poorly diff,49
+0,<=2cm,03-Jan,Positive,Intermediate,44
+0,>2cm,>=4,Positive,Poorly diff,48
+0,<=2cm,03-Jan,Positive,Intermediate,50
+0,<=2cm,03-Jan,Positive,Intermediate,44
+1,>2cm,>=4,Positive,Well diff,49
+1,>2cm,>=4,Negative,Poorly diff,32
+1,<=2cm,03-Jan,Positive,Intermediate,43
+1,<=2cm,03-Jan,Positive,Intermediate,42
+0,<=2cm,03-Jan,Positive,Well diff,50
+1,>2cm,03-Jan,Positive,Poorly diff,39
+0,>2cm,>=4,Positive,Intermediate,42
+0,>2cm,>=4,Negative,Poorly diff,41
+0,>2cm,03-Jan,Positive,Poorly diff,49
+1,>2cm,>=4,Negative,Poorly diff,38
+0,<=2cm,>=4,Positive,Poorly diff,43
+0,<=2cm,03-Jan,Positive,Intermediate,50
+0,>2cm,>=4,Positive,Intermediate,49
+1,>2cm,>=4,Negative,Poorly diff,37
+0,<=2cm,03-Jan,Positive,Well diff,37
+0,<=2cm,03-Jan,Positive,Well diff,48
+0,<=2cm,03-Jan,Positive,Intermediate,48
+0,<=2cm,03-Jan,Positive,Well diff,48
+0,>2cm,>=4,Positive,Poorly diff,49
+1,>2cm,>=4,Positive,Intermediate,45
+0,>2cm,03-Jan,Positive,Intermediate,44
+1,>2cm,03-Jan,Positive,Poorly diff,35
+0,<=2cm,03-Jan,Positive,Well diff,49
+0,<=2cm,03-Jan,Positive,Intermediate,39
+0,<=2cm,03-Jan,Positive,Well diff,46
+0,>2cm,>=4,Positive,Intermediate,49
+0,>2cm,>=4,Positive,Intermediate,37
+0,>2cm,03-Jan,Positive,Well diff,50
+1,<=2cm,>=4,Positive,Intermediate,35
+0,<=2cm,03-Jan,Positive,Well diff,47
+0,>2cm,03-Jan,Positive,Intermediate,43
+1,>2cm,>=4,Negative,Poorly diff,44
+0,<=2cm,03-Jan,Positive,Intermediate,41
+1,>2cm,>=4,Positive,Intermediate,43
+0,<=2cm,03-Jan,Negative,Poorly diff,45
+1,>2cm,>=4,Positive,Intermediate,42
+1,<=2cm,03-Jan,Positive,Intermediate,39
+0,<=2cm,03-Jan,Positive,Well diff,40
+1,<=2cm,03-Jan,Positive,Well diff,37
+0,<=2cm,03-Jan,Positive,Poorly diff,44
+1,>2cm,>=4,Positive,Intermediate,39
+0,>2cm,03-Jan,Positive,Intermediate,45
+0,>2cm,03-Jan,Negative,Poorly diff,46
+0,<=2cm,>=4,Positive,Well diff,42
+1,<=2cm,03-Jan,Positive,Intermediate,49
+0,<=2cm,03-Jan,Positive,Well diff,41
+0,<=2cm,>=4,Negative,Poorly diff,26
+0,>2cm,03-Jan,Negative,Poorly diff,49
+0,>2cm,03-Jan,Positive,Intermediate,36
+0,>2cm,03-Jan,Negative,Poorly diff,48
+0,<=2cm,03-Jan,Positive,Well diff,29
+1,>2cm,03-Jan,Positive,Intermediate,43
+1,>2cm,>=4,Negative,Intermediate,45
+0,<=2cm,03-Jan,Positive,Well diff,45
+0,>2cm,>=4,Positive,Intermediate,47
+0,>2cm,03-Jan,Positive,Intermediate,49
+0,<=2cm,>=4,Positive,Well diff,41
+0,<=2cm,03-Jan,Negative,Well diff,46
+0,<=2cm,03-Jan,Positive,Poorly diff,41
+0,<=2cm,03-Jan,Positive,Intermediate,36
+0,<=2cm,03-Jan,Positive,Well diff,38
+0,<=2cm,03-Jan,Positive,Intermediate,49
+0,>2cm,03-Jan,Positive,Well diff,49
+0,<=2cm,03-Jan,Positive,Well diff,42
+0,>2cm,>=4,Positive,Poorly diff,46
+1,>2cm,>=4,Positive,Intermediate,42
+1,<=2cm,03-Jan,Positive,Well diff,51
+0,>2cm,03-Jan,Positive,Intermediate,51
+1,<=2cm,03-Jan,Positive,Well diff,52
+0,>2cm,03-Jan,Positive,Poorly diff,52
+1,<=2cm,>=4,Negative,Poorly diff,52
+0,>2cm,03-Jan,Positive,Poorly diff,52
+0,>2cm,03-Jan,Positive,Intermediate,52
+0,<=2cm,03-Jan,Positive,Intermediate,52
+1,>2cm,03-Jan,Positive,Poorly diff,53
+0,<=2cm,03-Jan,Positive,Intermediate,52
+1,>2cm,>=4,Positive,Poorly diff,51
+0,<=2cm,03-Jan,Positive,Well diff,51
+0,<=2cm,03-Jan,Positive,Intermediate,51
+0,<=2cm,03-Jan,Positive,Well diff,51
+1,>2cm,>=4,Positive,Intermediate,51
+0,>2cm,03-Jan,Negative,Poorly diff,51
+0,>2cm,03-Jan,Positive,Well diff,47
+0,<=2cm,03-Jan,Positive,Well diff,39
+0,<=2cm,03-Jan,Positive,Poorly diff,51
