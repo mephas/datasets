@@ -1,0 +1,45 @@
+,event.lab,Diam,N,ER,Grade,Age
+125,censor,<=2cm,1~3,Positive,Intermediate,50
+127,relapse,<=2cm,1~3,Positive,Well diff,42
+128,censor,>2cm,1~3,Positive,Well diff,50
+129,censor,<=2cm,1~3,Positive,Intermediate,43
+130,censor,<=2cm,1~3,Negative,Poorly diff,47
+132,censor,<=2cm,1~3,Positive,Intermediate,47
+134,relapse,<=2cm,1~3,Positive,Poorly diff,38
+135,censor,<=2cm,1~3,Negative,Poorly diff,45
+136,relapse,>2cm,1~3,Negative,Poorly diff,31
+137,censor,<=2cm,1~3,Positive,Well diff,41
+145,censor,<=2cm,1~3,Positive,Intermediate,48
+146,relapse,>2cm,>=4,Positive,Poorly diff,47
+147,relapse,<=2cm,1~3,Negative,Intermediate,38
+149,censor,>2cm,1~3,Negative,Intermediate,44
+150,relapse,<=2cm,>=4,Positive,Intermediate,36
+151,relapse,>2cm,>=4,Positive,Poorly diff,42
+156,censor,>2cm,>=4,Positive,Poorly diff,42
+157,censor,>2cm,1~3,Positive,Well diff,45
+158,relapse,>2cm,1~3,Negative,Poorly diff,49
+159,relapse,<=2cm,1~3,Positive,Intermediate,44
+160,censor,>2cm,>=4,Positive,Well diff,32
+161,relapse,>2cm,>=4,Positive,Well diff,46
+162,censor,>2cm,1~3,Positive,Poorly diff,50
+163,censor,<=2cm,>=4,Positive,Poorly diff,38
+166,relapse,>2cm,1~3,Positive,Poorly diff,43
+169,censor,>2cm,1~3,Positive,Intermediate,40
+170,censor,>2cm,1~3,Positive,Well diff,42
+172,relapse,>2cm,1~3,Positive,Poorly diff,46
+174,censor,<=2cm,1~3,Positive,Poorly diff,41
+176,censor,>2cm,1~3,Positive,Intermediate,46
+177,relapse,>2cm,1~3,Negative,Poorly diff,48
+178,censor,>2cm,1~3,Positive,Intermediate,48
+180,relapse,>2cm,>=4,Positive,Poorly diff,36
+182,censor,<=2cm,1~3,Positive,Well diff,43
+184,relapse,>2cm,1~3,Negative,Poorly diff,44
+186,relapse,>2cm,1~3,Negative,Intermediate,47
+187,censor,<=2cm,1~3,Positive,Intermediate,40
+188,censor,<=2cm,1~3,Positive,Well diff,41
+190,censor,<=2cm,1~3,Positive,Well diff,48
+192,relapse,<=2cm,1~3,Positive,Intermediate,41
+194,relapse,<=2cm,1~3,Positive,Intermediate,45
+195,censor,<=2cm,1~3,Negative,Intermediate,45
+196,censor,>2cm,1~3,Positive,Well diff,47
+197,censor,<=2cm,1~3,Negative,Well diff,37

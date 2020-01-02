@@ -1,0 +1,145 @@
+ID,time,event,event.lab,Diam,N,ER,Grade,Age
+125,7.748117728,0,censor,<=2cm,1~3,Positive,Intermediate,50
+127,4.66255989,1,relapse,<=2cm,1~3,Positive,Well diff,42
+128,8.739219713,0,censor,>2cm,1~3,Positive,Well diff,50
+129,7.567419576,0,censor,<=2cm,1~3,Positive,Intermediate,43
+130,7.296372348,0,censor,<=2cm,1~3,Negative,Poorly diff,47
+132,6.718685832,0,censor,<=2cm,1~3,Positive,Intermediate,47
+134,6.995208761,1,relapse,<=2cm,1~3,Positive,Poorly diff,38
+135,9.330595483,0,censor,<=2cm,1~3,Negative,Poorly diff,45
+136,3.438740589,1,relapse,>2cm,1~3,Negative,Poorly diff,31
+137,15.32922656,0,censor,<=2cm,1~3,Positive,Well diff,41
+145,5.486652977,0,censor,<=2cm,1~3,Positive,Intermediate,48
+146,3.655030801,1,relapse,>2cm,>=4,Positive,Poorly diff,47
+147,1.609856263,1,relapse,<=2cm,1~3,Negative,Intermediate,38
+149,17.24024641,0,censor,>2cm,1~3,Negative,Intermediate,44
+150,0.960985626,1,relapse,<=2cm,>=4,Positive,Intermediate,36
+151,14.01232033,1,relapse,>2cm,>=4,Positive,Poorly diff,42
+156,17.65913758,0,censor,>2cm,>=4,Positive,Poorly diff,42
+157,7.874058864,0,censor,>2cm,1~3,Positive,Well diff,45
+158,2.811772758,1,relapse,>2cm,1~3,Negative,Poorly diff,49
+159,4.446269678,1,relapse,<=2cm,1~3,Positive,Intermediate,44
+160,16.14784394,0,censor,>2cm,>=4,Positive,Well diff,32
+161,8.128678987,1,relapse,>2cm,>=4,Positive,Well diff,46
+162,15.31279945,0,censor,>2cm,1~3,Positive,Poorly diff,50
+163,15.81930185,0,censor,<=2cm,>=4,Positive,Poorly diff,38
+166,1.612594114,1,relapse,>2cm,1~3,Positive,Poorly diff,43
+169,14.88569473,0,censor,>2cm,1~3,Positive,Intermediate,40
+170,13.34976044,0,censor,>2cm,1~3,Positive,Well diff,42
+172,1.388090349,1,relapse,>2cm,1~3,Positive,Poorly diff,46
+174,13.74948665,0,censor,<=2cm,1~3,Positive,Poorly diff,41
+176,12.57221081,0,censor,>2cm,1~3,Positive,Intermediate,46
+177,8.925393566,1,relapse,>2cm,1~3,Negative,Poorly diff,48
+178,13.17453799,0,censor,>2cm,1~3,Positive,Intermediate,48
+180,2.614647502,1,relapse,>2cm,>=4,Positive,Poorly diff,36
+182,11.31827515,0,censor,<=2cm,1~3,Positive,Well diff,43
+184,1.210130048,1,relapse,>2cm,1~3,Negative,Poorly diff,44
+186,11.73990418,1,relapse,>2cm,1~3,Negative,Intermediate,47
+187,12.50376454,0,censor,<=2cm,1~3,Positive,Intermediate,40
+188,11.26351814,0,censor,<=2cm,1~3,Positive,Well diff,41
+190,11.92334018,0,censor,<=2cm,1~3,Positive,Well diff,48
+192,2.696783025,1,relapse,<=2cm,1~3,Positive,Intermediate,41
+194,12.46543463,1,relapse,<=2cm,1~3,Positive,Intermediate,45
+195,11.54551677,0,censor,<=2cm,1~3,Negative,Intermediate,45
+196,11.19507187,0,censor,>2cm,1~3,Positive,Well diff,47
+197,11.04722793,0,censor,<=2cm,1~3,Negative,Well diff,37
+198,11.1430527,0,censor,<=2cm,1~3,Positive,Intermediate,43
+200,10.76796715,0,censor,<=2cm,1~3,Positive,Intermediate,43
+203,11.03627652,0,censor,>2cm,1~3,Positive,Poorly diff,49
+208,10.67488022,0,censor,>2cm,1~3,Positive,Poorly diff,45
+209,6.565366188,1,relapse,>2cm,>=4,Positive,Well diff,41
+210,11.20328542,0,censor,>2cm,1~3,Positive,Well diff,50
+213,1.973990418,1,relapse,<=2cm,1~3,Positive,Poorly diff,49
+217,1.716632444,1,relapse,>2cm,>=4,Negative,Poorly diff,43
+218,2.340862423,1,relapse,>2cm,1~3,Positive,Poorly diff,38
+220,10.32717317,0,censor,<=2cm,1~3,Positive,Well diff,42
+236,2.483230664,0,censor,<=2cm,1~3,Negative,Poorly diff,49
+243,9.98220397,0,censor,<=2cm,1~3,Positive,Intermediate,44
+245,11.54551677,0,censor,>2cm,>=4,Positive,Poorly diff,48
+247,5.637234771,0,censor,<=2cm,1~3,Positive,Intermediate,50
+249,5.316906229,0,censor,<=2cm,1~3,Positive,Intermediate,44
+256,8.988364134,1,relapse,>2cm,>=4,Positive,Well diff,49
+257,2.29705681,1,relapse,>2cm,>=4,Negative,Poorly diff,32
+258,5.117043121,1,relapse,<=2cm,1~3,Positive,Intermediate,43
+260,8.303901437,1,relapse,<=2cm,1~3,Positive,Intermediate,42
+261,8.594113621,0,censor,<=2cm,1~3,Positive,Well diff,50
+263,2.223134839,1,relapse,>2cm,1~3,Positive,Poorly diff,39
+264,7.252566735,0,censor,>2cm,>=4,Positive,Intermediate,42
+265,6.789869952,0,censor,>2cm,>=4,Negative,Poorly diff,41
+267,6.929500342,0,censor,>2cm,1~3,Positive,Poorly diff,49
+269,0.9363276,1,relapse,>2cm,>=4,Negative,Poorly diff,38
+272,7.252566735,0,censor,<=2cm,>=4,Positive,Poorly diff,43
+273,6.997946612,0,censor,<=2cm,1~3,Positive,Intermediate,50
+275,0.054757016,0,censor,>2cm,>=4,Positive,Intermediate,49
+276,0.648870637,1,relapse,>2cm,>=4,Negative,Poorly diff,37
+277,5.11430527,0,censor,<=2cm,1~3,Positive,Well diff,37
+280,5.292265572,0,censor,<=2cm,1~3,Positive,Well diff,48
+281,7.34017796,0,censor,<=2cm,1~3,Positive,Intermediate,48
+282,5.744010951,0,censor,<=2cm,1~3,Positive,Well diff,48
+283,5.325119781,0,censor,>2cm,>=4,Positive,Poorly diff,49
+284,3.915126626,1,relapse,>2cm,>=4,Positive,Intermediate,45
+287,6.067077344,0,censor,>2cm,1~3,Positive,Intermediate,44
+288,0.353182752,1,relapse,>2cm,1~3,Positive,Poorly diff,35
+290,4.971937029,0,censor,<=2cm,1~3,Positive,Well diff,49
+291,11.65229295,0,censor,<=2cm,1~3,Positive,Intermediate,39
+293,6.313483915,0,censor,<=2cm,1~3,Positive,Well diff,46
+294,6.143737166,0,censor,>2cm,>=4,Positive,Intermediate,49
+297,9.596167009,0,censor,>2cm,>=4,Positive,Intermediate,37
+298,9.456536619,0,censor,>2cm,1~3,Positive,Well diff,50
+300,2.85284052,1,relapse,<=2cm,>=4,Positive,Intermediate,35
+301,9.330595483,0,censor,<=2cm,1~3,Positive,Well diff,47
+303,9.193702943,0,censor,>2cm,1~3,Positive,Intermediate,43
+307,1.965776865,1,relapse,>2cm,>=4,Negative,Poorly diff,44
+308,9.32238193,0,censor,<=2cm,1~3,Positive,Intermediate,41
+309,8.561259411,1,relapse,>2cm,>=4,Positive,Intermediate,43
+310,9.097878166,0,censor,<=2cm,1~3,Negative,Poorly diff,45
+311,4.219028063,1,relapse,>2cm,>=4,Positive,Intermediate,42
+314,3.219712526,1,relapse,<=2cm,1~3,Positive,Intermediate,39
+315,8.240930869,0,censor,<=2cm,1~3,Positive,Well diff,40
+318,2.335386721,1,relapse,<=2cm,1~3,Positive,Well diff,37
+320,9.894592745,0,censor,<=2cm,1~3,Positive,Poorly diff,44
+321,1.500342231,1,relapse,>2cm,>=4,Positive,Intermediate,39
+322,6.704996578,0,censor,>2cm,1~3,Positive,Intermediate,45
+324,8.859685147,0,censor,>2cm,1~3,Negative,Poorly diff,46
+325,8.854209446,0,censor,<=2cm,>=4,Positive,Well diff,42
+327,4.621492129,1,relapse,<=2cm,1~3,Positive,Intermediate,49
+328,5.577002053,0,censor,<=2cm,1~3,Positive,Well diff,41
+330,5.199178645,0,censor,<=2cm,>=4,Negative,Poorly diff,26
+332,7.991786448,0,censor,>2cm,1~3,Negative,Poorly diff,49
+334,7.693360712,0,censor,>2cm,1~3,Positive,Intermediate,36
+335,7.4770705,0,censor,>2cm,1~3,Negative,Poorly diff,48
+337,6.819986311,0,censor,<=2cm,1~3,Positive,Well diff,29
+340,3.121149897,1,relapse,>2cm,1~3,Positive,Intermediate,43
+341,1.733059548,1,relapse,>2cm,>=4,Negative,Intermediate,45
+343,6.6091718,0,censor,<=2cm,1~3,Positive,Well diff,45
+345,6.995208761,0,censor,>2cm,>=4,Positive,Intermediate,47
+346,7.121149897,0,censor,>2cm,1~3,Positive,Intermediate,49
+347,4.720054757,0,censor,<=2cm,>=4,Positive,Well diff,41
+350,3.285420945,0,censor,<=2cm,1~3,Negative,Well diff,46
+351,6.527036277,0,censor,<=2cm,1~3,Positive,Poorly diff,41
+353,6.551676934,0,censor,<=2cm,1~3,Positive,Intermediate,36
+357,5.823408624,0,censor,<=2cm,1~3,Positive,Well diff,38
+359,6.01779603,0,censor,<=2cm,1~3,Positive,Intermediate,49
+360,5.549623546,0,censor,>2cm,1~3,Positive,Well diff,49
+361,5.347022587,0,censor,<=2cm,1~3,Positive,Well diff,42
+362,5.259411362,0,censor,>2cm,>=4,Positive,Poorly diff,46
+363,4.971937029,1,relapse,>2cm,>=4,Positive,Intermediate,42
+370,9.998631075,1,relapse,<=2cm,1~3,Positive,Well diff,51
+373,7.772758385,0,censor,>2cm,1~3,Positive,Intermediate,51
+374,2.680355921,1,relapse,<=2cm,1~3,Positive,Well diff,52
+375,17.42094456,0,censor,>2cm,1~3,Positive,Poorly diff,52
+377,8.528405202,1,relapse,<=2cm,>=4,Negative,Poorly diff,52
+378,13.9192334,0,censor,>2cm,1~3,Positive,Poorly diff,52
+381,12.26009582,0,censor,>2cm,1~3,Positive,Intermediate,52
+383,11.08281999,0,censor,<=2cm,1~3,Positive,Intermediate,52
+385,1.94661191,1,relapse,>2cm,1~3,Positive,Poorly diff,53
+387,8.213552361,0,censor,<=2cm,1~3,Positive,Intermediate,52
+389,3.419575633,1,relapse,>2cm,>=4,Positive,Poorly diff,51
+390,6.803559206,0,censor,<=2cm,1~3,Positive,Well diff,51
+392,6.171115674,0,censor,<=2cm,1~3,Positive,Intermediate,51
+393,5.574264203,0,censor,<=2cm,1~3,Positive,Well diff,51
+395,11.21149897,1,relapse,>2cm,>=4,Positive,Intermediate,51
+396,10.23134839,0,censor,>2cm,1~3,Negative,Poorly diff,51
+403,6.754277892,0,censor,>2cm,1~3,Positive,Well diff,47
+404,7.570157426,0,censor,<=2cm,1~3,Positive,Well diff,39
+117,5.303216975,0,censor,<=2cm,1~3,Positive,Poorly diff,51
