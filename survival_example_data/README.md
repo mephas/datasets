@@ -14,3 +14,11 @@ CSV is common separated file; TXT file is tab delimited text
 
 - `NKI70.csv`: the original data
 
+- `surv_diabetes_train.csv/txt`: training data
+
+- `surv_diabetes_test.csv/txt`: test data 
+
+- `surv_diabetes_test2.csv/txt`: test data without dependent variable
+
+- `diabetes.csv`: the original data
+
