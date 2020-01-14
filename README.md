@@ -8,11 +8,13 @@ Every folder contains simple explanation in README.md
 
 - *datasets* folder: old example data
 
+- *dimensional_analysis_example_data* folder: for dimensional analysis 1 (PCA, EFA) and dimensional analysis 2 (PCR, PLSR, SPLSR) 
+
 - *distribution_example_data* folder: for probability distribution (continuous and discrete)
 
 - *linear_reg_example_data* folder: for linear regression
 
-- *logistic_reg_example_data* folder: for logisitc regression
+- *logistic_reg_example_data* folder: for logistic regression
 
 - *nptest_example_data* folder: for nonparametric test
 
