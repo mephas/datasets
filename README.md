@@ -1,4 +1,4 @@
-# example_data
+# Example Data File
 
 This folder includes CSV and TXT example data for uploading into MEPHAS
 
