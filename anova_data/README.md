@@ -6,6 +6,8 @@ The first column is `ID`, the second column is value followed by the factor vari
 
 CSV is common separated file; TXT file is tab delimited text
 
-- `1way_anova.csv/txt`: one way ANOVA, Kruskal-Wallis test and pairwise test
+------
 
-- `2way_anova.csv/txt`: two way ANOVA and pairwise test
+- `1way_anova.csv/txt`: can be used in one way ANOVA, Kruskal-Wallis test and pairwise test
+
+- `2way_anova.csv/txt`: can be used in two way ANOVA and pairwise test

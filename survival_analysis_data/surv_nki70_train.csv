@@ -1,0 +1,101 @@
+,start.time,end.time,event,Diam,N,ER,Grade,Age
+125,0,7.748117728,0,<=2cm,1~3,Positive,Intermediate,50
+127,0,4.66255989,1,<=2cm,1~3,Positive,Well diff,42
+128,0.2,8.739219713,0,>2cm,1~3,Positive,Well diff,50
+129,0,7.567419576,0,<=2cm,1~3,Positive,Intermediate,43
+130,0,7.296372348,0,<=2cm,1~3,Negative,Poorly diff,47
+132,0,6.718685832,0,<=2cm,1~3,Positive,Intermediate,47
+134,0,6.995208761,1,<=2cm,1~3,Positive,Poorly diff,38
+135,0,9.330595483,0,<=2cm,1~3,Negative,Poorly diff,45
+136,0,3.438740589,1,>2cm,1~3,Negative,Poorly diff,31
+137,0.5,15.32922656,0,<=2cm,1~3,Positive,Well diff,41
+145,0,5.486652977,0,<=2cm,1~3,Positive,Intermediate,48
+146,0,3.655030801,1,>2cm,>=4,Positive,Poorly diff,47
+147,0,1.609856263,1,<=2cm,1~3,Negative,Intermediate,38
+149,0,17.24024641,0,>2cm,1~3,Negative,Intermediate,44
+150,0,0.960985626,1,<=2cm,>=4,Positive,Intermediate,36
+151,0,14.01232033,1,>2cm,>=4,Positive,Poorly diff,42
+156,0,17.65913758,0,>2cm,>=4,Positive,Poorly diff,42
+157,0,7.874058864,0,>2cm,1~3,Positive,Well diff,45
+158,0,2.811772758,1,>2cm,1~3,Negative,Poorly diff,49
+159,0,4.446269678,1,<=2cm,1~3,Positive,Intermediate,44
+160,0.1,16.14784394,0,>2cm,>=4,Positive,Well diff,32
+161,0,8.128678987,1,>2cm,>=4,Positive,Well diff,46
+162,0,15.31279945,0,>2cm,1~3,Positive,Poorly diff,50
+163,0,15.81930185,0,<=2cm,>=4,Positive,Poorly diff,38
+166,0,1.612594114,1,>2cm,1~3,Positive,Poorly diff,43
+169,0,14.88569473,0,>2cm,1~3,Positive,Intermediate,40
+170,0,13.34976044,0,>2cm,1~3,Positive,Well diff,42
+172,0,1.388090349,1,>2cm,1~3,Positive,Poorly diff,46
+174,0,13.74948665,0,<=2cm,1~3,Positive,Poorly diff,41
+176,0,12.57221081,0,>2cm,1~3,Positive,Intermediate,46
+177,0,8.925393566,1,>2cm,1~3,Negative,Poorly diff,48
+178,0.1,13.17453799,0,>2cm,1~3,Positive,Intermediate,48
+180,0,2.614647502,1,>2cm,>=4,Positive,Poorly diff,36
+182,0,11.31827515,0,<=2cm,1~3,Positive,Well diff,43
+184,0,1.210130048,1,>2cm,1~3,Negative,Poorly diff,44
+186,0,11.73990418,1,>2cm,1~3,Negative,Intermediate,47
+187,0.1,12.50376454,0,<=2cm,1~3,Positive,Intermediate,40
+188,0,11.26351814,0,<=2cm,1~3,Positive,Well diff,41
+190,0,11.92334018,0,<=2cm,1~3,Positive,Well diff,48
+192,0,2.696783025,1,<=2cm,1~3,Positive,Intermediate,41
+194,0,12.46543463,1,<=2cm,1~3,Positive,Intermediate,45
+195,0,11.54551677,0,<=2cm,1~3,Negative,Intermediate,45
+196,0,11.19507187,0,>2cm,1~3,Positive,Well diff,47
+197,0,11.04722793,0,<=2cm,1~3,Negative,Well diff,37
+198,0,11.1430527,0,<=2cm,1~3,Positive,Intermediate,43
+200,0,10.76796715,0,<=2cm,1~3,Positive,Intermediate,43
+203,0,11.03627652,0,>2cm,1~3,Positive,Poorly diff,49
+208,0,10.67488022,0,>2cm,1~3,Positive,Poorly diff,45
+209,0,6.565366188,1,>2cm,>=4,Positive,Well diff,41
+210,0,11.20328542,0,>2cm,1~3,Positive,Well diff,50
+213,0,1.973990418,1,<=2cm,1~3,Positive,Poorly diff,49
+217,0,1.716632444,1,>2cm,>=4,Negative,Poorly diff,43
+218,0,2.340862423,1,>2cm,1~3,Positive,Poorly diff,38
+220,0,10.32717317,0,<=2cm,1~3,Positive,Well diff,42
+236,0,2.483230664,0,<=2cm,1~3,Negative,Poorly diff,49
+243,0,9.98220397,0,<=2cm,1~3,Positive,Intermediate,44
+245,0,11.54551677,0,>2cm,>=4,Positive,Poorly diff,48
+247,0,5.637234771,0,<=2cm,1~3,Positive,Intermediate,50
+249,0,5.316906229,0,<=2cm,1~3,Positive,Intermediate,44
+256,0,8.988364134,1,>2cm,>=4,Positive,Well diff,49
+257,0,2.29705681,1,>2cm,>=4,Negative,Poorly diff,32
+258,0,5.117043121,1,<=2cm,1~3,Positive,Intermediate,43
+260,0,8.303901437,1,<=2cm,1~3,Positive,Intermediate,42
+261,0,8.594113621,0,<=2cm,1~3,Positive,Well diff,50
+263,0,2.223134839,1,>2cm,1~3,Positive,Poorly diff,39
+264,0,7.252566735,0,>2cm,>=4,Positive,Intermediate,42
+265,0,6.789869952,0,>2cm,>=4,Negative,Poorly diff,41
+267,0,6.929500342,0,>2cm,1~3,Positive,Poorly diff,49
+269,0,0.9363276,1,>2cm,>=4,Negative,Poorly diff,38
+272,0,7.252566735,0,<=2cm,>=4,Positive,Poorly diff,43
+273,0,6.997946612,0,<=2cm,1~3,Positive,Intermediate,50
+275,0,0.054757016,0,>2cm,>=4,Positive,Intermediate,49
+276,0,0.648870637,1,>2cm,>=4,Negative,Poorly diff,37
+277,0,5.11430527,0,<=2cm,1~3,Positive,Well diff,37
+280,0,5.292265572,0,<=2cm,1~3,Positive,Well diff,48
+281,0,7.34017796,0,<=2cm,1~3,Positive,Intermediate,48
+282,0,5.744010951,0,<=2cm,1~3,Positive,Well diff,48
+283,0,5.325119781,0,>2cm,>=4,Positive,Poorly diff,49
+284,0,3.915126626,1,>2cm,>=4,Positive,Intermediate,45
+287,0,6.067077344,0,>2cm,1~3,Positive,Intermediate,44
+288,0,0.353182752,1,>2cm,1~3,Positive,Poorly diff,35
+290,0,4.971937029,0,<=2cm,1~3,Positive,Well diff,49
+291,0,11.65229295,0,<=2cm,1~3,Positive,Intermediate,39
+293,0,6.313483915,0,<=2cm,1~3,Positive,Well diff,46
+294,0,6.143737166,0,>2cm,>=4,Positive,Intermediate,49
+297,0,9.596167009,0,>2cm,>=4,Positive,Intermediate,37
+298,0,9.456536619,0,>2cm,1~3,Positive,Well diff,50
+300,0,2.85284052,1,<=2cm,>=4,Positive,Intermediate,35
+301,0,9.330595483,0,<=2cm,1~3,Positive,Well diff,47
+303,0,9.193702943,0,>2cm,1~3,Positive,Intermediate,43
+307,0,1.965776865,1,>2cm,>=4,Negative,Poorly diff,44
+308,0,9.32238193,0,<=2cm,1~3,Positive,Intermediate,41
+309,0,8.561259411,1,>2cm,>=4,Positive,Intermediate,43
+310,0,9.097878166,0,<=2cm,1~3,Negative,Poorly diff,45
+311,0,4.219028063,1,>2cm,>=4,Positive,Intermediate,42
+314,0,3.219712526,1,<=2cm,1~3,Positive,Intermediate,39
+315,0,8.240930869,0,<=2cm,1~3,Positive,Well diff,40
+318,0,2.335386721,1,<=2cm,1~3,Positive,Well diff,37
+320,0,9.894592745,0,<=2cm,1~3,Positive,Poorly diff,44
+321,0,1.500342231,1,>2cm,>=4,Positive,Intermediate,39

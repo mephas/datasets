@@ -1,7 +1,0 @@
-	Birthweight	Age	Age.group	SBP
-11	120	2	a	80
-12	95	3	a	79
-13	120	3	a	86
-14	150	4	b	97
-15	160	3	a	92
-16	125	3	a	88

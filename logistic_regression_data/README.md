@@ -12,5 +12,5 @@ CSV is common separated file; TXT file is tab delimited text
 
 - `logit_diag_test2.csv/txt`: test data without dependent variable
 
-- `bresatcancer.csv`: full data
+- `bresatcancer.csv`: the original data
 
