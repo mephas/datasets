@@ -6,6 +6,8 @@ The first column is `ID` and the second column is random numbers (`x`)
 
 CSV is common separated file; TXT file is tab delimited text
 
+------
+
 1. Continuous Probability Distribution
 
 - `normal.csv/txt`: Normal distribution

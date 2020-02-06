@@ -1,11 +1,8 @@
 # example_data
 
-This folder includes CSV and TXT example data for MEPHAS
+This folder includes original CSV data.
 
-Every folder contains simple explanation in README.md
-
-
-- datasets folder: old example data
+Other data are sampled from these datasets.
 
 
 

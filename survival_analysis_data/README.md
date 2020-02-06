@@ -6,6 +6,8 @@ The first column is `ID` and, second column is the time variable, and the third 
 
 CSV is common separated file; TXT file is tab delimited text
 
+------
+
 - `surv_nki70_train.csv/txt`: training data
 
 - `surv_nki70_test.csv/txt`: test data 
