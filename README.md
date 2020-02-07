@@ -2,10 +2,8 @@
 
 This folder includes CSV and TXT example data for MEPHAS
 
-Every folder contains simple explanation in README.md
+Please check the README.md in each folder
 
-
-- datasets folder: old example data
 
 
 
