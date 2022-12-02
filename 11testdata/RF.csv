@@ -1,0 +1,51 @@
+Study ID,Year of study,TP,FP,FN,TN,Cutoff,Method
+Aho 1999,1999,64,16,27,153,,LA
+Anuradha 2005,2005,482,2,82,153,8,LA
+Banchuin 1992,1992,36,6,41,313,,ELISA
+Bas 2003,2003,143,43,53,196,,ELISA
+Berthelot 1995,1995,80,50,39,45,100,LA
+Bizzaro 2001,2001,61,36,37,196,,Nephelometry 
+Bombardieri 2004,2004,27,6,3,33,15,Nephelometry 
+Carpenter 1989,1989,60,8,20,119,87,ELISA
+Choi 2005,2005,261,54,63,197,9,LA
+Cordonnier 1996,1996,20,2,29,18,40,LA
+Das 2004,2004,42,46,14,127,16.3,Nephelometry 
+Davis 1989,1989,18,3,31,25,,ELISA
+de Bois 1996,1996,8,8,0,31,3,ELISA
+De Rycke 2004,2004,93,28,25,118,3.125,LA
+Despres 1994,1994,143,39,63,130,100,LA
+Dubucquoi 2004,2004,84,41,56,90,20,ELISA
+Fernandez-Suarez 2005,2005,30,2,23,73,50,Nephelometry 
+Girelli 2004,2004,32,29,3,13,20,Nephelometry 
+Goldbach-Mansky 2000,2000,70,39,36,93,20,Nephelometry
+Gomes-Daudrix 1994,1994,48,1,40,99,,ELISA
+Greiner 2005,2005,75,42,12,191,,Nephelometry 
+Grootenboer-Mignot 2004,2004,64,18,29,73,20,Nephelometry
+Hitchon 2004,2004,32,10,9,13,20,Nephelometry
+Jansen 2003,2003,130,8,128,113,30,Nephelometry
+Jonsson 1998,1998,50,14,20,191,40,ELISA
+Kamali 2005,2005,20,32,26,25,20,LA
+Kwok 2005,2005,77,16,52,52,15,Nephelometry
+Lee 2003,2003,73,22,29,90,80,LA
+Lopez-Hoyos 2004,2004,36,3,5,70,22,Nephelometry
+Nell 2005,2005,56,11,46,87,,Not reported
+Quinn 2006,2006,115,53,67,63,40,Not reported
+Rantapaa-Dahlqvist 2003,2003,49,23,28,359,20,ELISA
+Raza 2005,2005,22,2,20,80,30,LA
+Saraux 1995,1995,8,8,31,91,40,LA
+Saraux 2003,2003,35,8,51,149,,ELISA
+Sauerland 2005,2005,161,89,7,360,20,Nephelometry 
+Schellekens 2000,2000,80,28,69,284,3,ELISA
+Soderlin 2004,2004,5,4,11,49,20,LA
+Spiritus 2004,2004,57,9,33,93,20,Nephelometry 
+Suzuki 2003,2003,383,38,166,170,15,Nephelometry 
+Swedler,,89,3,9,39,20,Nephelometry 
+Thammanichanond 2005,2005,57,25,6,111,20,LA
+Vallbracht 2004,2004,196,75,99,345,15,ELISA
+van Leeuwen 1988,1988,163,10,28,140,,ELISA
+Vasiliauskiene 2001,2001,75,21,21,106,17,ELISA
+Visser 1996,1996,157,287,78,1466,9,ELISA
+Vittecoq 2001,2001,26,1,32,29,80,LA
+Vittecoq 2004,2004,62,11,114,127,16,ELISA
+Winkles 1989,1989,113,19,29,481,,LA
+Young 1991,1991,25,1,14,20,40,RA hemagglutination

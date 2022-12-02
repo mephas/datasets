@@ -1,0 +1,11 @@
+Test,Study_ID,TP,FP,FN,TN
+CT,Dewey 2006,62,5,4,46
+MRI,Dewey 2006,42,2,7,39
+CT,Kefer 2005,32,6,2,12
+MRI,Kefer 2005,30,9,4,9
+CT,Langer 2009,25,2,1,40
+MRI,Langer 2009,18,15,8,27
+CT,Maintz 2007,15,2,1,2
+MRI,Maintz 2007,15,1,1,3
+CT,Pouleur 2008,16,7,1,53
+MRI,Pouleur 2008,17,17,0,43
