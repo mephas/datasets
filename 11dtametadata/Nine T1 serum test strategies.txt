@@ -1,0 +1,47 @@
+Test	StudyID	Year	TP	FP	FN	TN
+ PAPP-A	Brambati 1993	1993	8	23	6	438
+ PAPP-A	Casals 1996	1996	11	4	5	76
+ PAPP-A	Spencer 1999	1999	80	47	130	899
+ PAPP-A	Wald 2003	2003	49	51	36	974
+ Free BhCG	Casals 1996	1996	2	56	17	1063
+ Free BhCG	Noble 1997	1997	22	40	54	760
+ Free BhCG	Spencer 1999	1999	69	47	141	899
+ Free BhCG	Wald 2003	2003	16	51	69	974
+"Age, PAPP-A"	Biagiotti 1998	1998	16	10	16	190
+"Age, PAPP-A"	Brambati 1993	1993	9	23	5	438
+"Age, PAPP-A"	Forest 1997	1997	8	25	10	475
+"Age, PAPP-A"	Spencer 1999	1999	101	47	109	899
+"Age, PAPP-A"	Wald 2003	2003	57	51	28	974
+"Age, free BhCG"	Biagiotti 1995	1995	21	12	20	234
+"Age, free BhCG"	Biagiotti 1998	1998	11	10	21	190
+"Age, free BhCG"	Brambati 1994	1994	4	4	9	85
+"Age, free BhCG"	Forest 1997	1997	6	25	12	475
+"Age, free BhCG"	Noble 1995	1995	22	121	39	2306
+"Age, free BhCG"	Spencer 1999	1999	97	47	113	899
+"Age, free BhCG"	Wald 2003	2003	33	51	52	974
+"Age, PAPP-A and free BhCG"	Biagiotti 1998	1998	19	10	13	190
+"Age, PAPP-A and free BhCG"	Brambati 1994	1994	10	4	3	85
+"Age, PAPP-A and free BhCG"	Christiansen 2007	2007	31	7	16	129
+"Age, PAPP-A and free BhCG"	Christiansen 2009	2009	53	13	21	248
+"Age, PAPP-A and free BhCG"	Christiansen 2010	2010	18	25	10	478
+"Age, PAPP-A and free BhCG"	Cowans 2010	2010	49	19	21	356
+"Age, PAPP-A and free BhCG"	De Graaf 1999	1999	17	9	13	168
+"Age, PAPP-A and free BhCG"	Forest 1997	1997	10	25	8	475
+"Age, PAPP-A and free BhCG"	Haddow 1998	1998	29	158	19	3011
+"Age, PAPP-A and free BhCG"	Kagan 2009	2009	82	981	40	18633
+"Age, PAPP-A and free BhCG"	Sahota 2010	2010	20	541	12	10281
+"Age, PAPP-A and free BhCG"	Spencer 1999	1999	141	47	69	899
+"Age, PAPP-A and free BhCG"	Torring 2010	2010	35	32	11	613
+"Age, PAPP-A and free BhCG"	Tsukerman 1999	1919	21	78	10	1486
+"Age, PAPP-A and free BhCG"	Wald 2003	2003	63	51	22	974
+"Age, PAPP-A and free BhCG"	Wapner 2003	2003	41	408	20	7747
+"Age, PAPP-A and free BhCG"	Zaragoza 2009	2009	69	30	21	579
+"Age, free BhCG and AFP"	Biagiotti 1995	1995	23	12	18	234
+"Age, free BhCG and AFP"	Tsukerman 1999	1919	18	78	13	1486
+"Age, free BhCG and AFP"	Wald 2003	2003	35	51	50	974
+"Age, PAPP-A, free BhCG and AFP"	Tsukerman 1999	1919	23	78	8	1486
+"Age, PAPP-A, free BhCG and AFP"	Wald 2003	2003	63	51	22	974
+"Age, PlGF, PAPP-A, free BhCG"	Cowans 2010	2010	50	19	20	356
+"Age, PlGF, PAPP-A, free BhCG"	Zaragoza 2009	2009	72	30	18	579
+"Age, ADAM 12, PAPP-A, free BhCG"	Christiansen 2010	2010	21	25	7	478
+"Age, ADAM 12, PAPP-A, free BhCG"	Torring 2010	2010	34	32	12	613
